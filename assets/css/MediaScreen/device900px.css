@@ -1,0 +1,22 @@
+@media screen and (max-width: 1000px)
+{
+    .img
+    {
+        display: none;
+    }
+
+    .container
+    {
+        grid-template-columns: 1fr;
+    }
+
+    .wave
+    {
+        display: none;
+    }
+
+    .container__login
+    {
+        justify-content: center;
+    }
+}
